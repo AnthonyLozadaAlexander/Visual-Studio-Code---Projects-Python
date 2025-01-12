@@ -1,0 +1,9 @@
+{
+    "animations.CursorAnimation": false,
+    "animations.Auto-Install": false,
+    "animations.Install-Method": "Apc Customize UI++",
+    "animations.Command-Palette": "None",
+    "animations.Active": "Scale",
+    "animations.Smooth-Mode": true,
+    "animations.Scrolling": "Scale"
+}
